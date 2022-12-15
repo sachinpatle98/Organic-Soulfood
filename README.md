@@ -52,7 +52,7 @@ Interested in contributing to this project? Thanks so much for your interest! We
 <!-- CONTACT -->
 <h2>Contact with me</h2>
 
-Subrat Kumar Sahu
+Purushottam Patle
 * [instagram](https://www.instagram.com/patle.purushottam/)
 * [LinkedIn](https://www.linkedin.com/m/in/purushottam-patle-73190918b)
 * [facebook](https://m.facebook.com/purushottam.patle.9)
